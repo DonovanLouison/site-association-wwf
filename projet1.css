@@ -669,7 +669,7 @@ header .container ul a{
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    filter: drop-shadow(3px 5px 4px #232323);
+    filter: drop-shadow(3px 5px 6px #232323);
     top:-2px;
    }
 
